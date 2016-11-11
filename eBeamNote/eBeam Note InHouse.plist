@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.pnf.ebeamnote.inhouse</string>
 				<key>bundle-version</key>
-				<string>3.3.2</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
