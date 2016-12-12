@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/sunghyuk-choi/Enterprise_Hub/releases/download/1.0.0.201212111/eBeam.Note.InHouse.ipa</string>
+					<string>https://github.com/sunghyuk-choi/Enterprise_Hub/releases/download/3.3.3.201212131.enter/eBeam.Note.InHouse.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.pnf.ebeamnote.inhouse</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>3.3.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
