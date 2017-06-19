@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/sunghyuk-choi/Enterprise_Hub/releases/download/1.0.1201706091/SmartPen3.InHouse.ipa</string>
+					<string>https://github.com/sunghyuk-choi/Enterprise_Hub/releases/download/1.0.1201706091/eBeamNote.InHouse.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SmartPen3 InHouse</string>
+				<string>eBeamNote InHouse</string>
 			</dict>
 		</dict>
 	</array>
